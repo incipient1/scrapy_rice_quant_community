@@ -50,18 +50,19 @@ class RqcomPipeline(object):
             spider.logger.error(format_exc())
         except DuplicateKeyError:
             spider.logger.debug('duplicate key error collection')
-
+        
+        # 如果要入库MySQL，将下文添加进来即可
         # try:
         #     db_mysql = pymysql.connect(host = "localhost",
-        #                          port = 3306,
-        #                          user = "root",
-        #                          password = "321343",
+        #                          port = ***,
+        #                          user = "***",
+        #                          password = "***",
         #                          db = "test",
         #                          charset = "utf8")
 
         #     if isinstance(item,RqcomItem):
         #         cursor = db_mysql.cursor()
-        #         # cursor.execute("\
+        #         # cursor.execute("\                                                       # 创建字段
         #         #                 CREATE TABLE rice_quant_community_4(topic INT,\
         #         #                                                     user_id INT,\
         #         #                                                     user_img varchar(20),\
