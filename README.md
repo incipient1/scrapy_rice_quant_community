@@ -4,4 +4,4 @@
 1. 文件夹utils及其所有文件
 1. items.py
 ## 从MongoDB中导出数据
-导出后数据：rqcomitem.csv
+导出后数据：rqcomitem.csv（社区相关信息）、user_info（各用户相关信息）
