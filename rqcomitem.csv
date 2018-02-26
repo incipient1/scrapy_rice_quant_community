@@ -1,0 +1,63 @@
+﻿_id,topic,comment_num,like_num,read_num,tittle,user_id,user_img,user_name
+
+ObjectId(5a8f736d7bebff02512d5058),4450,3,2,152,新人求助，如何获取前日涨幅大于7%的票【已解决】,333632,https://cdn.ricequant.com/img/avatar/default-avatar5.png,杨亚东
+
+ObjectId(5a8f736d7bebff02512d505a),4453,2,0,99,分钟回测交易量问题,333444,https://cdn.ricequant.com/img/avatar/default-avatar3.png,楚人老李
+ObjectId(5a8f736d7bebff02512d505c),4449,2,0,211,回测的错误：Python int too large to convert to C long,278239,https://cdn.ricequant.com/img/avatar/default-avatar.png,jeff yu
+ObjectId(5a8f736d7bebff02512d505e),4451,4,0,129,请帮我看下代码是什么问题？回测时不交易,323770,https://cdn.ricequant.com/img/avatar/e89f8998-891a-4cc3-b763-dd32d4328320.png,zhangfapei
+ObjectId(5a8f736d7bebff02512d5060),4395,4,17,2146,机器学习笔记汇总,234414,https://cdn.ricequant.com/img/avatar/c58bedd9-a233-465d-b642-a27754514cbc.png,止一之路
+ObjectId(5a8f736d7bebff02512d5062),4445,5,0,220,编写程序计算股票价格最后一位数字(整数部分或小数部分均可)的出现频率，并作实证研究,327436,https://cdn.ricequant.com/img/avatar/default-avatar.png,Steven
+ObjectId(5a8f736d7bebff02512d5064),4432,3,0,373,rqalpha 数据源的替换问题【已解决】,278239,https://cdn.ricequant.com/img/avatar/default-avatar.png,jeff yu
+ObjectId(5a8f736d7bebff02512d5066),4384,5,0,212,停牌数据 20170316 和 20170317的停牌股票有误【已解决】,295475,https://cdn.ricequant.com/img/avatar/default-avatar.png,Dong Li
+ObjectId(5a8f736d7bebff02512d5068),3872,4,6,4896,因子分析,303828,https://cdn.ricequant.com/img/avatar/c9dbdb7d-ed95-427a-9be7-4109f087ca3c.png,Canned_fish
+ObjectId(5a8f736d7bebff02512d506a),4444,3,0,168,请问get_fundamentals函数中的fundamentals.income_statement.revenue【已解决】,335387,https://cdn.ricequant.com/img/avatar/default-avatar2.png,rquser_335387
+ObjectId(5a8f736d7bebff02512d506c),4446,1,0,211,#策略分享#【高活跃金叉成长股】年化收益4.352% 夏普比率0.0889,335780,https://cdn.ricequant.com/img/avatar/default-avatar.png,borland
+ObjectId(5a8f736d7bebff02512d506e),4443,3,0,348,同花顺概念板块成分股数据分享,305763,https://cdn.ricequant.com/img/avatar/ec361256-1606-4595-9156-7a3a02f056e4.png,乘风听雨
+ObjectId(5a8f736d7bebff02512d5070),4433,4,0,290,关于alphalens 和 scipy,278239,https://cdn.ricequant.com/img/avatar/default-avatar.png,jeff yu
+ObjectId(5a8f736d7bebff02512d5072),4440,2,0,274,rqalpha 什么时候能实现分钟级回测？,238967,https://cdn.ricequant.com/img/avatar/c290248d-f9b6-4007-9bc2-90b7503e2337.png,诺日
+ObjectId(5a8f736d7bebff02512d5074),4441,2,0,127,循环选股，显示都是大盘收盘价。,240335,https://cdn.ricequant.com/img/avatar/default-avatar.png,tiansheng li
+ObjectId(5a8f736d7bebff02512d5076),4437,6,0,244,为什么进行了完整的回测却还是无法进行模拟交易？？？【已解决】,304478,https://cdn.ricequant.com/img/avatar/default-avatar.png,Johnson666
+ObjectId(5a8f736d7bebff02512d5078),4428,5,0,245,logger.debug() 是什么？怎么用？【已解决】,316193,https://cdn.ricequant.com/img/avatar/7dce1a15-65b3-4693-bc2a-1c84cdde7480.png,UioSun
+ObjectId(5a8f736d7bebff02512d507a),2705,2,0,426,感觉可转债可以开始关注了,307144,https://cdn.ricequant.com/img/avatar/7d76095eb6e911e6a1705254a49147c0.png,李如飞
+ObjectId(5a8f736d7bebff02512d507c),2741,13,2,21064,一步一步写一个简单的技术指标策略,309935,https://cdn.ricequant.com/img/avatar/7dd0b120-0a9a-491a-a006-dac82b83919d.png,lecturer ricequant
+ObjectId(5a8f736d7bebff02512d507e),3730,5,6,6568,Fama-Franch三因子及其拓展五因子模型,303036,https://cdn.ricequant.com/img/avatar/931ac539c73c11e6a1705254a49147c0.png,众生怜悯
+ObjectId(5a8f737b7bebff02512d508a),4438,4,0,224,提问：history_bar相关问题【已解决】,300384,https://cdn.ricequant.com/img/avatar/default-avatar.png,JYDMW
+ObjectId(5a8f737b7bebff02512d508c),2753,39,8,11167,tf10 Grid2dLSTM 构建高抽象的多因子股票时间序列预测模型,301293,https://cdn.ricequant.com/img/avatar/5b8df575-0ffe-4784-8d2a-dffe24fd2e27.png,猫狗大战
+ObjectId(5a8f737b7bebff02512d508e),1640,4,1,2361,每月定投策略,303820,https://cdn.ricequant.com/img/avatar/default-avatar.png,xiaorong liao
+ObjectId(5a8f737b7bebff02512d5090),4357,2,0,384,机器学习笔记005 | 更加接近现实情况的预测,234414,https://cdn.ricequant.com/img/avatar/c58bedd9-a233-465d-b642-a27754514cbc.png,止一之路
+ObjectId(5a8f737b7bebff02512d5092),3083,33,0,6386,第一策略，征集超越者，个人奖励5k元,302782,https://cdn.ricequant.com/img/avatar/8bcab4d6-fa84-4b1b-ad5e-ae7501d50ddf.png,王新元
+ObjectId(5a8f737b7bebff02512d5094),4356,2,1,335,机器学习笔记004 | 矩阵和向量，提升效率的数学工具,234414,https://cdn.ricequant.com/img/avatar/c58bedd9-a233-465d-b642-a27754514cbc.png,止一之路
+ObjectId(5a8f737b7bebff02512d5096),4434,6,0,185,ricequant history_bars数据是前复权的吗,311064,https://cdn.ricequant.com/assets/img/default-avatar.png,梧桐基金
+ObjectId(5a8f737b7bebff02512d5098),4008,16,1,9330,中国·横琴大赛火热报名中,298959,https://cdn.ricequant.com/img/avatar/d6534edda5b711e6aa5d5254a49147c0.png,翟俊炜
+ObjectId(5a8f737b7bebff02512d509a),4000,33,0,1308,关于历史数据错误反馈给哪位？【已解决】,318983,https://cdn.ricequant.com/img/avatar/default-avatar.png,TMT气球
+ObjectId(5a8f737b7bebff02512d509c),4344,4,0,206,小白求救， Python API文档中的策略实例--海龟交易系统 是否没有处理复权问题？,333834,https://cdn.ricequant.com/img/avatar/default-avatar3.png,酸牛奶面包_333834
+ObjectId(5a8f737b7bebff02512d509e),4429,2,0,709,#策略分享#基本面财务指标策略：年化收益135.229% 夏普比率2.2349,327436,https://cdn.ricequant.com/img/avatar/default-avatar.png,Steven
+ObjectId(5a8f737b7bebff02512d50a0),2094,5,7,6930,统计套利 Review and Outlook,303008,https://dn-ricequant.qbox.me/avatar/86ee0fd3846511e6b69c5254a49147c0.png?1474948228211,苏兰兰
+ObjectId(5a8f737b7bebff02512d50a2),4430,1,0,349,#策略分享#【第一个入门策略】年化收益59.010% 夏普比率1.4864,328316,https://cdn.ricequant.com/img/avatar/default-avatar.png,rquser_328316
+ObjectId(5a8f737b7bebff02512d50a4),4419,4,2,285,11月13几只上市不久的股票k线错误,313135,https://cdn.ricequant.com/img/avatar/default-avatar.png,ryanaaa
+ObjectId(5a8f737b7bebff02512d50a6),4426,2,0,117,请问如何编写以下策略：15分钟周期K线图中，股价上穿60日均线买入，跌破60日均线卖出。,318103,https://cdn.ricequant.com/img/avatar/default-avatar.png,麦爸
+ObjectId(5a8f737b7bebff02512d50a8),4427,1,1,268,#策略分享#【1】年化收益40.631% 夏普比率2.4950,331228,https://cdn.ricequant.com/img/avatar/default-avatar.png,灰灰_331228
+ObjectId(5a8f737b7bebff02512d50aa),2997,21,9,7634,【Updated】追踪聪明钱——从分钟行情数据到选股因子,268871,https://cdn.ricequant.com/img/avatar/0390a20168e111e6a5515254a49147c0.png,HooH
+ObjectId(5a8f737b7bebff02512d50ac),4425,3,0,122,基准收益的基准如果想改成米筐里的行业比如C31之类的怎么改？,331285,http://wx.qlogo.cn/mmopen/vi_32/8AltZyhRCsq4zXsXLIqK23AVDHGyaBS4fJGLPnibhtqgbnIUw0p1yn0pKxTscWuAI6rfpFBQzJV2xEoIQ7YRgTQ/0,solomon
+ObjectId(5a8f737b7bebff02512d50ae),2423,7,2,3401,统计套利（四）alpha对冲  老哥稳,293770,https://cdn.ricequant.com/img/avatar/707ba5c6a7e811e6aa5d5254a49147c0.png,华瑞毕
+ObjectId(5a8f737b7bebff02512d50b0),4423,2,0,103,put_file如何输出一个dataframe,302277,https://cdn.ricequant.com/img/avatar/default-avatar.png,李嘉浩
+ObjectId(5a8f73b77bebff02512d50e6),4405,3,1,149,求助如何把notebook里面的文件更换文件夹【已解决】,302277,https://cdn.ricequant.com/img/avatar/default-avatar.png,李嘉浩
+ObjectId(5a8f73b77bebff02512d50e8),4418,2,0,79,交易时间是否可以作为一个variable?,330473,https://cdn.ricequant.com/img/avatar/default-avatar2.png,磐
+ObjectId(5a8f73b77bebff02512d50ea),4422,2,0,113,重要对象中有一个Order对象， 怎么获取到呢？,332830,https://cdn.ricequant.com/img/avatar/default-avatar2.png,rquser_332830
+ObjectId(5a8f73b77bebff02512d50ec),4421,2,0,95,模拟交易运行是不是出现问题了，没有今天行情的运行,305211,https://cdn.ricequant.com/img/avatar/default-avatar.png,刘祖庆
+ObjectId(5a8f73b77bebff02512d50ee),3739,10,4,3336,#策略分享#【当前市场行情最强势三因子】年化收益118.259% 夏普比率4.9939,311909,https://cdn.ricequant.com/img/avatar/843232e4-dffc-41ef-8e52-582680b7a44d.png,汪逸飞
+ObjectId(5a8f73b77bebff02512d50f0),4412,3,1,156,关于多因子策略分组情况的请教【已解决】,331672,https://cdn.ricequant.com/img/avatar/default-avatar2.png,rquser_331672
+ObjectId(5a8f73b77bebff02512d50f2),4417,1,0,201,#策略分享#【动量小市值】,325658,https://cdn.ricequant.com/img/avatar/default-avatar4.png,左凌希
+ObjectId(5a8f73b77bebff02512d50f4),4348,3,0,709,简单价投策略分享——格雷厄姆思路改编（十年十倍）,332671,https://cdn.ricequant.com/img/avatar/29418989-0c30-43f5-b746-8492ba5d6f1e.png,UncleTodd
+ObjectId(5a8f73b77bebff02512d50f6),4414,1,0,102,#策略分享#【改进版小盘股】年化收益-25.724% 夏普比率-1.2909,334852,https://cdn.ricequant.com/img/avatar/default-avatar4.png,RAY
+ObjectId(5a8f73b77bebff02512d50f8),1763,21,5,14895,我有一个“每日判断买入、卖出的策略思路”，如何一步一步转化成策略呢？,132782,https://cdn.ricequant.com/img/avatar/773ba878-2bff-4874-bcc8-5fd8033a5d33.png,
+ObjectId(5a8f73b77bebff02512d50fa),2431,7,0,1279,notebook可以在本地运行吗？,295361,https://cdn.ricequant.com/img/avatar/default-avatar.png,Le Yang
+ObjectId(5a8f73b77bebff02512d50fc),4326,10,0,448,横琴大赛疑问,332798,https://cdn.ricequant.com/img/avatar/default-avatar.png,xxd301
+ObjectId(5a8f73b77bebff02512d50fe),4408,2,0,108,财报数据为什么不对,334823,https://cdn.ricequant.com/img/avatar/default-avatar4.png,rquser_334823
+ObjectId(5a8f73b77bebff02512d5100),4270,2,0,156,el pse congroo,321629,https://cdn.ricequant.com/img/avatar/default-avatar1.png,xiaohua
+ObjectId(5a8f73b77bebff02512d5102),4278,2,0,361,#策略分享#【二八轮动简单版】年化收益19.484% 夏普比率0.6913,332637,https://cdn.ricequant.com/img/avatar/8ff87938-209c-4925-b746-0b71a44b96ed.png,尼比鲁之神
+ObjectId(5a8f73b77bebff02512d5104),4402,2,0,167,RQalpha现在可以进行股票的实盘交易了吗,327238,https://cdn.ricequant.com/img/avatar/default-avatar5.png,rquser_327238
+ObjectId(5a8f73b77bebff02512d5106),4404,2,0,99,有没有办法手工调整模拟交易的现金和仓位？,325190,https://cdn.ricequant.com/img/avatar/default-avatar.png,lz
+ObjectId(5a8f73b77bebff02512d5108),4407,3,0,142,怎么求连续三年净利润增长率在30%以上的股票,323770,https://cdn.ricequant.com/img/avatar/e89f8998-891a-4cc3-b763-dd32d4328320.png,zhangfapei
+ObjectId(5a8f73b77bebff02512d510a),3497,12,0,2621,Final Project ： 市值因子选股+FFScore打分+限价策略止损  年化收益59.317% 夏普比率1.4391,312214,https://cdn.ricequant.com/assets/img/default-avatar.png,张士衡
+ObjectId(5a8f73b77bebff02512d510c),4411,2,0,156,#策略分享#【中性化BP】年化收益21.982% 夏普比率0.6440,331101,https://cdn.ricequant.com/img/avatar/default-avatar.png,rquser_331101
